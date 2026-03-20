@@ -1,0 +1,58 @@
+/* Body */
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+/* Main Heading */
+h1 {
+    text-align: center;
+    color: blue;
+    border-bottom: 2px solid blue;
+    padding-bottom: 10px;
+}
+
+/* Section Headings */
+h2 {
+    color: green;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+/* Lists */
+ul {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Section Box Effect */
+section {
+    padding: 10px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+section:hover {
+    background-color: #fff3cd;
+}
+
+/* Footer */
+.footer {
+    margin-top: 30px;
+}
